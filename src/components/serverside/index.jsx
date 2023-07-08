@@ -1,7 +1,9 @@
+
 const ServerTest = () => {
     return (
         <div>
             server side component
+          
         </div>
     )
 }
