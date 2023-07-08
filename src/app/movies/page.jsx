@@ -6,4 +6,4 @@ const Movies = () => {
     )
 }
 
-export default movies
+export default Movies
