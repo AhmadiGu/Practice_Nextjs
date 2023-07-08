@@ -1,4 +1,4 @@
-"use client" // this make it clent side  and its used for hooks
+"use client" // this make it clent side  and its used
 import { useState } from 'react'
 const Test = () => {
     return (
