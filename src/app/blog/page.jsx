@@ -1,4 +1,4 @@
-const blog = () => {
+const Blog = () => {
     return (
         <div>
             blog page

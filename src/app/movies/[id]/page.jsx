@@ -1,4 +1,4 @@
-const single = () => {
+const Single = () => {
     return (
         <div>
            movie1 details 

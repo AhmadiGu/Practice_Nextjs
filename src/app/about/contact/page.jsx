@@ -1,4 +1,4 @@
-const contact = () => {
+const Contact = () => {
     return (
         <div>
            contact details 

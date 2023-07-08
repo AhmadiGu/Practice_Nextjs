@@ -1,4 +1,4 @@
-const movies = () => {
+const Movies = () => {
     return (
         <div>
             movies page
